@@ -50,7 +50,7 @@ input[type="file"] {
 }
 
 body {
-    background-image: '../../images/Alphonse_Mucha_Cycles_Perfecta.jpg';
+    background-image: src="{{ url_for('images', filename='Mucha.jpg') }}";
 }
 
 
