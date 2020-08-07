@@ -9,5 +9,5 @@ La idea completa es poner un sensor de movimiento, que active una cámara, que t
 
 ## Otra aplicación (alternativa) posible es ... 
 
-Utilizar la cámara, el sensor de movimiento y el ML para verificar el uso correcto o incorrecto de una ciclovía; contando las bicicletas, motos y otros vehiculos que pasen por una determinada calle donde se halle una ciclovía.
+Utilizar la cámara, el sensor de movimiento y el ML para verificar el uso correcto o incorrecto de una ciclovía; contando las bicicletas, motos y otros vehiculos que pasen por una determinada calle donde se halle la ciclovía.
 
