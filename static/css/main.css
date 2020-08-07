@@ -49,8 +49,5 @@ input[type="file"] {
     100% { transform: rotate(360deg); }
 }
 
-body {
-    background-image: src="{{ url_for('images', filename='Mucha.jpg') }}";
-}
 
 
